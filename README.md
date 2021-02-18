@@ -5,9 +5,9 @@ This repo contains assignment of MET CS 566 course. Please do not copy paste the
 ## Assignments
 
 ### Assigment 1
-* [Readme](assignment_1_nadeem_khan/README.md)
-* [Code](assignment_1_nadeem_khan/homework1_nadeem_khan.py)
-* [Theory](assignment_1_nadeem_khan/CS566_Homework1_NadeemKhan.doc)
+* [Readme](solution_1_nadeem_khan/README.md)
+* [Code](solution_1_nadeem_khan/homework1_nadeem_khan.py)
+* [Theory](solution_1_nadeem_khan/CS566_Homework1_NadeemKhan.doc)
 
 
 ### Assigment 2

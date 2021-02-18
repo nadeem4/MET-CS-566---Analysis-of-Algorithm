@@ -10,8 +10,6 @@ Algo 2:
 n = 2**m
 X**n = ((X**2) **2) **2…, etc.
 [NOTE: the symbol of power (**) is used m times here, i.e., X**8 = ((X**2) **2) **2, because 8 = 2**3].
-
-
 """
 
 
